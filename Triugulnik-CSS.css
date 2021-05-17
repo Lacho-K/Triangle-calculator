@@ -1,0 +1,27 @@
+body
+{
+    background-color: black;
+}
+#trDraw
+{
+    margin-top: 10%;
+}
+
+h1, p
+{
+    text-align: center;
+    color: orangered;
+}
+button
+{
+    background-color: burlywood;
+    color: black;
+    margin-top: 5%;
+    margin-left: 25%;
+    width: 50%;
+    height: 30px;
+}
+input
+{
+    margin-left: 5%;
+}
