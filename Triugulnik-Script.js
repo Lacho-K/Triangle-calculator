@@ -62,8 +62,6 @@ function processTriangle() {
     document.getElementById("typeTrSides").innerHTML = "Type of triangle(sides) = " + getTriangleTypeSides(AB, AC, BC);
     document.getElementById("typeTrAngles").innerHTML = "Type of triangle(angles) = " + getTriangleTypeAngles(result);
 
-    // TODO: determine type of triangle(sides, corners), also a bit of css
-
     drawTriangle(xa, ya, xb, yb, xc, yc);
 }
 
